@@ -9,6 +9,6 @@ This project showcases top[ travel itineraries, group tours, and private package
 * Live Server
 
 ##📚 What I Learned
-* Structuring web documents with semantic HTML(<figure>, <figcaption>, <ul>).
+* Structuring web documents with semantic HTML.
 * Linking external resources and handling images.
 * Setting up a local development environment in VS Code.
